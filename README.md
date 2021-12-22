@@ -3,7 +3,7 @@ apt-get install python3
 
 apt-get install git
 
-git clone 
+git clone https://github.com/Butbu/camira
 
 pip3 install requests
 
